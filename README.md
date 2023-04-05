@@ -1,1 +1,2 @@
 # rodentRepellent
+Our design philosophy consists of two objectives. The primary objective is accurately detecting the presence of a rodent. The detection of a rodent has to be fairly accurate because it's the base of the project. After this first objective is accomplished, we then move on to objective two. The second objective is to turn on our defense mechanism to repel and protect the area from rodents.
